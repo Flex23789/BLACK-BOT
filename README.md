@@ -6,14 +6,14 @@
         </a>
     </p>
     <p>
-        <a href="https://whatsapp.com/channel/0029Vag5dT01t90dVIah1X1p"><img title="Autor" src="https://files.catbox.moe/f1a461.png"></a>
+        <a href="https://whatsapp.com/channel/0029Vag5dT01t90dVIah1X1p"><img title="Autor" src=""></a>
     </p>
     <p>
         <a href="https://github.com/davidprospero123"><img title="Seguidores" src="https://img.shields.io/github/followers/davidprospero123?color=blue&style=flat-square"></a>
         <a href="https://github.com/davidprospero123/REM-CHAM-MD/stargazers/"><img title="Estrellas" src="https://img.shields.io/github/stars/davidprospero123/REM-CHAM-MD?color=red&style=flat-square"></a>
     </p>
     <p>
-        <a href="#"><img title="Avanzado WhatsApp Bot" src="https://img.shields.io/badge/-Avanzado%20WhatsApp%20Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+        <a href="#"><img title="Avanzado WhatsApp Bot" src="https://img.shields.io/badge/PLUTO%20WhatsApp%20Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
     <p>
         <a href="#"><img src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"></a>
