@@ -5,11 +5,7 @@
             <h1>NIGHT-BOT</h1>
         </a>
     </p>
-قنواتي
-    <p>
-        <a href="https://github.com/davidprospero123"><img title="Seguidores" src="https://img.shields.io/github/followers/davidprospero123?color=blue&style=flat-square"></a>
-        <a href="https://github.com/davidprospero123/REM-CHAM-MD/stargazers/"><img title="Estrellas" src="https://img.shields.io/github/stars/davidprospero123/REM-CHAM-MD?color=red&style=flat-square"></a>
-    </p>
+##قنواتي
     <p>
         <a href="https://whatsapp.com/channel/0029Vag5dT01t90dVIah1X1p"><img title="قناة البوت" src="https://img.shields.io/badge/PLUTO%20WhatsApp%20Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
