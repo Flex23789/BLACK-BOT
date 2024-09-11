@@ -21,14 +21,8 @@
 <br>
 ## خبرتي
 <br>
--html
 <br>
-قريبا
--js
-<br>
--node.js
-<br>
--css
-<br>
+  <a href="https://onecompiler.com/html"><img title="قناة البوت" src="https://img.shields.io/badge/PLUTO%20Html%20Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  
 <img src="https://files.catbox.moe/bd7g6t.gif">
 
