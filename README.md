@@ -6,7 +6,7 @@
         </a>
     </p>
     <p>
-        <a href="https://github.com/davidprospero123"><img title="Autor" src="https://img.shields.io/badge/Autor-davidprospero123-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href="https://whatsapp.com/channel/0029Vag5dT01t90dVIah1X1p"><img title="Autor" src="https://img.shields.io/badge/Autor-davidprospero123-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
         <a href="https://github.com/davidprospero123"><img title="Seguidores" src="https://img.shields.io/github/followers/davidprospero123?color=blue&style=flat-square"></a>
