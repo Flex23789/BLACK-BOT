@@ -20,5 +20,11 @@
 لقب: فلكس
 <br>
 ## خبرتي
+<br>
+-html
+قريبا
+-js
+-node.js
+-css
 <img src="https://files.catbox.moe/bd7g6t.gif">
-###html
+
