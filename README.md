@@ -24,7 +24,10 @@
 -html
 قريبا
 -js
+<br>
 -node.js
+<br>
 -css
+<br>
 <img src="https://files.catbox.moe/bd7g6t.gif">
 
