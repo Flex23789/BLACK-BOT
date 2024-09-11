@@ -2,7 +2,7 @@
     <p>  
         <a href="https://www.youtube.com/watch?v=MoiO-2NorRA&t=3s">
             <img alt="Rem-Cham" height="300" src="https://files.catbox.moe/9wza46.gif">
-            <h1>NIGHT-BOT</h1>
+            <h1>BLACK-BOT</h1>
         </a>
     </p>
 قناة البوت  <br>
