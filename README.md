@@ -5,13 +5,9 @@
             <h1>NIGHT-BOT</h1>
         </a>
     </p>
-قنواتي
+قنواتي  <br>
     <p>
         <a href="https://whatsapp.com/channel/0029Vag5dT01t90dVIah1X1p"><img title="قناة البوت" src="https://img.shields.io/badge/PLUTO%20WhatsApp%20Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-    </p>
-    <p>
-        <a href="#"><img src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"></a>
-        <img src="https://img.shields.io/github/repo-size/davidprospero123/REM-CHAM-MD"> <br> 
     </p>
 </div>
 
@@ -28,7 +24,7 @@ mejorando la experiencia del usuario en la plataforma.
 
 1. Haz un fork del repositorio
     <br>
-<a href='https://github.com/davidprospero123/REM-CHAM-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
 
 # 𝙂𝙪𝙞𝙖 𝙥𝙖𝙧𝙖 𝙡𝙖 𝙞𝙣𝙨𝙩𝙖𝙡𝙖𝙘𝙞𝙤𝙣 𝙙𝙚 𝙧𝙚𝙢 𝙚𝙣 𝙩𝙚𝙧𝙢𝙪𝙭
 
