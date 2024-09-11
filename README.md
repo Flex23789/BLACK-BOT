@@ -22,7 +22,7 @@
 ## خبرتي
 <br>
 <br>
-  <a href="https://onecompiler.com/html"><img title="قناة البوت" src="https://img.shields.io/badge/%20Html%20-Blue?colorA=#4863A0&colorB=#4863A0&style=for-the-badge"></a>
+  <a href="https://onecompiler.com/html"><img title="قناة البوت" src="https://img.shields.io/badge/%20Html%20-Blue?colorA=#5E5A80&colorB=#5E5A80&style=for-the-badge"></a>
   
 <img src="https://files.catbox.moe/bd7g6t.gif">
 
